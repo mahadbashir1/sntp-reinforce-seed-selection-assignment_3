@@ -1,0 +1,11 @@
+{
+  "empty_seed_set_zero_spread": "pass",
+  "probability_0_only_distinct_seeds": "pass",
+  "probability_1_all_reachable_active": "pass",
+  "same_seed_same_spread": "pass",
+  "duplicate_action_rejected": "pass",
+  "masked_actions_zero_probability": "pass",
+  "five_distinct_selected_users": "pass",
+  "reward_equals_spread_over_n": "pass",
+  "finite_training_losses_and_gradients": "pass"
+}
